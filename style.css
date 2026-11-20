@@ -14,10 +14,6 @@ body {
   background: #ffffff;
 }
 
-h1 {
-  color: rgb(247, 246, 244);
-}
-
 header {
   background: var(--main-colour);
   color: #ffffff;
