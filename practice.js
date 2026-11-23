@@ -25,5 +25,6 @@ const list = document.querySelector("#item-list");
 for (const item of items) {
   const li = document.createElement("li");
   li.textContent = item;
+  list.appendChild(li);
 }
 console.log("Items shown:", items.length);
