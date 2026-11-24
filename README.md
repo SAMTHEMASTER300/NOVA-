@@ -1,18 +1,18 @@
-# [Site name]
+# NAVA
 
 ## What this site is
 One or two sentences.
 
 ## Who it is for
-[Your user] and what they need from it.
+Built for car enthusiasts, builders, event organizers, and trusted garages—connecting the entire local automotive scene in one place. 
 
 ## How to open it
-Live site: [your GitHub Pages address]
+Live site:https://samthemaster300.github.io/NOVA-/
 
 ## What it does
 - Three connected pages: Home, About, More
-- A button that shows and hides this week's details
-- A list built from data (added on Day 6)
+- A button that shows and hides what we offer 
+- A list that shows what we specialize in 
 
 ## Sources
 Every image, fact and dataset is listed on the About page and in my source record.
@@ -21,4 +21,4 @@ Every image, fact and dataset is listed on the About page and in my source recor
 What I asked the AI (Claude or Cursor), what I checked and what I changed is in my AI accountability log.
 
 ## What I would do next
-One or two ideas.
+plan on adding a contact page to enable customers to communicate with us 
