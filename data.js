@@ -9,14 +9,14 @@
 // Never put anyone's real name or details in this file.
 
 const records = [
-  { name: "oil & filter change", category: "maintenance", amount: ksh.4500 },
-  { name: "brake pad inspection", category: "maintenance", amount: ksh.4000 },
-  { name: "engine diagnostics", category: "diagnostics", amount: ksh.5000 },
-  { name: "wheel Alignment", category: "suspension", amount: ksh.3500 },
-  { name: "suspension check", category: "suspension", amount: ksh.2000 },
-  { name: "battery load test ", category: "diagnostics", amount: ksh.1500 },
-  { name: "custom tuning quote", category: "performance", amount: ksh.6500 },
-  { name: "full detailing package ", category: "performance", amount: ksh.8500 }
+  { name: "oil & filter change", category: "maintenance", amount: 4500 },
+  { name: "brake pad inspection", category: "maintenance", amount: 4000 },
+  { name: "engine diagnostics", category: "diagnostics", amount: 5000 },
+  { name: "wheel Alignment", category: "suspension", amount: 3500 },
+  { name: "suspension check", category: "suspension", amount: 2000 },
+  { name: "battery load test ", category: "diagnostics", amount: 1500 },
+  { name: "custom tuning quote", category: "performance", amount: 6500 },
+  { name: "full detailing package ", category: "performance", amount: 8500 }
 ];
 
 // Facts that are true of your file (rewrite these on Day 6 so your mentor can check your conclusions):
